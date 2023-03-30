@@ -12,12 +12,6 @@ const questions: Array<Question> = [
     options: ["value", "rights", "fair", "worthy"],
     answer: "fair",
   },
-//   {
-//     id: 2,
-//     question: "Finite means <span id='space'>&nbsp;</span> in size or extent",
-//     options: ["value", "limited", "fair", "worth"],
-//     answer: "limited",
-//   },
 ];
 
 const QuestionList: React.FC = () => {
